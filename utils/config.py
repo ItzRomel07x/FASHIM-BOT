@@ -1,6 +1,6 @@
 import os
 
-TOKEN = os.environ.get("MTM2ODgyNDIxNDI3NDA0ODEyMg.GUwWVI.gSy9IW9sNKqoXlc_YHPfUlGUtYVBEEWtCLhH08")
+TOKEN = os.environ.get("MTM4NTIwNjU0NTk1NTk0NjU1Ng.GUYKRt.eogA-nx8dXKUWSkIaN-KGbY2vp9c_ScjIbSliI")
 NAME = "FAHIM"
 server = "https://discord.gg/xrzyjeKha2"
 ch = "https://discord.com/channels/699587669059174461/1271825678710476911"
